@@ -1,6 +1,6 @@
 # asyncData-fetch-sample
 
-> My shining Nuxt.js project
+Nuxt.jsのasyncDataメソッドとfetchメソッドのサンプルコードです。
 
 ## Build Setup
 
